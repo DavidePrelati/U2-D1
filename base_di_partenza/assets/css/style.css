@@ -259,13 +259,15 @@ footer a {
 
     main article iframe {
         width: 50%;
-        height: 300px;
+        height: 168px;
+        margin-right: -4px;
 
     }
 
     section {
-        width: 40%;
+        width: 50%;
         display: inline-block;
+        vertical-align: top;
     }
 
     aside div {
