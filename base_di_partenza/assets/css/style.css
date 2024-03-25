@@ -259,6 +259,8 @@ footer a {
 
     main article iframe {
         width: 50%;
+        height: 300px;
+
     }
 
     main article section form {
